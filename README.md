@@ -16,3 +16,7 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+Data Architecture Method: Medallion Architecture
+
+<img width="1213" height="795" alt="Screenshot 2026-06-08 101853" src="https://github.com/user-attachments/assets/0e5c588a-cbd0-4d64-927c-aa06e06281fa" />

@@ -1,4 +1,14 @@
 /*
+Purpose: Perform various quality checks for data consistency, accuracy, and standization across the silver schema
+
+Checks: - NULL or duplicate primary keys
+		- Unwanted spaces in string fields
+		- Data standardization and consistency
+		- Invalid data range and orders
+		- Data consistency between related fields
+*/
+
+/*
 silver.crm_cust_info
 */
 

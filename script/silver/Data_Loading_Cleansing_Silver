@@ -4,6 +4,8 @@ Purpose:Remove Unwanted spaces,
 		Data Normalization & Standardization, 
 		Handling Missing Data, 
 		Remove Duplicates
+Action Performed: Truncates Silver tables, Inserrt transformed and cleansed data from Bronze into Silver tables
+Usage: EXEC Silver.load_silver;
 */
 
 /*
